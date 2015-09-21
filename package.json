@@ -1,0 +1,27 @@
+{
+  "name": "earth-view",
+  "version": "1.0.0",
+  "description": "Earth View",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/quarterto/earth-view.git"
+  },
+  "keywords": [
+    "earth"
+  ],
+  "author": "Matt Brennan <matt@153.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/quarterto/earth-view/issues"
+  },
+  "homepage": "https://github.com/quarterto/earth-view#readme",
+  "dependencies": {
+    "boulevard": "^2.3.1",
+    "superagent": "^1.4.0",
+    "superagent-promise": "^1.0.3"
+  }
+}
